@@ -1,0 +1,8 @@
+dependencies:
+  - python>=3.9
+  - numpy
+  - matplotlib
+  - scipy
+  - pytest
+  - pip:
+    - opencv-python
